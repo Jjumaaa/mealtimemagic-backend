@@ -1,34 +1,46 @@
-{
-  "characters": [
-    {
+[
+  {
       "id": 1,
-      "name": "Mr. Cute",
-      "image": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYyZGVuYWp0aWdzeG42ZXBjZHg0Z2lhOXBhbmlseDNpMjZ5eDFldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif",
-      "votes": 0
-    },
-    {
+      "title": "Avocado Toast",
+      "category": "breakfast",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc9AIvAc6dkD5GTVhVASi91F4Jc4n7AbOFhw&s",
+      "description": "Simple yet delicious avocado toast with a sprinkle of chili flakes.",
+      "ingredients": "2 slices bread\n1 ripe avocado\n1 tbsp olive oil\nSalt and pepper\nChili flakes",
+      "instructions": "Cut the avocado in half and carefully remove its stone, then scoop out the flesh into a bowl. Squeeze in the lemon juice then mash with a fork to your desired texture. Season to taste with sea salt, black pepper and chilli flakes. Toast your bread, drizzle over the oil then pile the avocado on top.",
+      "prepTime": 15,
+      "difficulty": "Easy"
+  },
+  {
       "id": 2,
-      "name": "Mx. Monkey",
-      "image": "https://media.giphy.com/media/qixJFUXq1UNLa/giphy.gif?cid=790b76110r0yy6pcdhobyo5ucwpl2r4a8z13lycna9etb59e&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-      "votes": 0
-    },
-    {
+      "title": "Greek Salad",
+      "category": "lunch",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+      "description": "Fresh and healthy Greek salad with feta cheese and olives.",
+      "ingredients": "1 cucumber\n2 tomatoes\n1 red onion\n200g feta cheese\nKalamata olives\nOlive oil\nOregano",
+      "instructions": "1. Chop all vegetables\n2. Add olives and feta\n3. Dress with olive oil and oregano",
+      "prepTime": 15,
+      "difficulty": "Easy"
+  },
+  {
       "id": 3,
-      "name": "Ms. Zebra",
-      "image": "https://media.giphy.com/media/l2YWD4izd8i4zyJWw/giphy.gif?cid=790b76114vu07rxsqo7wjgdbrofje3tmhgqkome3vlshzb4h&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-      "votes": 0
-    },
-    {
+      "title": "Beef Bourguignon",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143",
+      "description": "Classic French beef stew cooked in red wine.",
+      "ingredients": "1kg beef chuck\n200g bacon\n500g mushrooms\n3 carrots\n2 onions\n750ml red wine\nBeef stock\nGarlic\nThyme\nBay leaves",
+      "instructions": "1. Brown the beef\n2. Cook bacon and vegetables\n3. Add wine and herbs\n4. Simmer for 3 hours",
+      "prepTime": 180,
+      "difficulty": "Hard"
+  },
+  {
       "id": 4,
-      "name": "Dr. Lion",
-      "image": "https://media.giphy.com/media/ZkBcyGcNwNUUU/giphy.gif?cid=790b7611r4lliexetp3pizxa9k2msjp43xu9wlxsg7epsxgj&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-      "votes": 0
-    },
-    {
-      "id": 5,
-      "name": "Mme. Panda",
-      "image": "https://media.giphy.com/media/xkhn6Ry4taRtC/giphy.gif?cid=790b7611dk26uwp80dhqd1fqshfqo98dooq64074sbt8ptk8&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-      "votes": 0
-    }
-  ]
-}
+      "title": "Chocolate Lava Cake",
+      "category": "dessert",
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e",
+      "description": "Decadent chocolate cake with a molten center.",
+      "ingredients": "200g dark chocolate\n200g butter\n4 eggs\n200g sugar\n100g flour",
+      "instructions": "1. Melt chocolate and butter\n2. Whisk eggs and sugar\n3. Combine all ingredients\n4. Bake at 200°C for 12 minutes",
+      "prepTime": 25,
+      "difficulty": "Medium"
+  }
+]
